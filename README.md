@@ -2,6 +2,9 @@
 My first project
 Basic Banking System
 
+If you want to see my program codes with explanation click the link bellow👇
+"C:\Users\ADMIN\Downloads\Basic Banking System- Screen Recording - 3_11_2023, 2_54_37 pm.webm"
+
 Overview
 
 This is a simple console-based basic banking system implemented in Python. It allows users to register, login, check their account balance, deposit money, and withdraw money. The user data is stored in two dictionaries - one for user information (username and password) and another for account balances.
