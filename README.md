@@ -2,6 +2,8 @@
 My first project
 Basic Banking System
 
+If you want to watch my video; Click the link below👇
+https://www.youtube.com/watch?v=bSc-bK1w_U0
 
 Overview
 
