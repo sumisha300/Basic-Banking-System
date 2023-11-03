@@ -2,8 +2,6 @@
 My first project
 Basic Banking System
 
-If you want to see my project, click the link bellow👇
-"D:\Basic Banking System"
 
 Overview
 
