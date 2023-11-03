@@ -2,8 +2,7 @@
 My first project
 Basic Banking System
 
-If you want to see my program codes with explanation click the link bellow👇
-"C:\Users\ADMIN\Downloads\Basic Banking System- Screen Recording - 3_11_2023, 2_54_37 pm.webm"
+
 
 Overview
 
